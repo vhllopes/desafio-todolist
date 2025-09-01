@@ -46,7 +46,7 @@ Siga os passos abaixo para executar a aplicação localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://SEU_LINK_PARA_O_REPOSITORIO.git
+    git clone https://LINK_DO_REPOSITORIO.git
     cd desafio-todolist
     ```
 
